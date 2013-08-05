@@ -1,6 +1,6 @@
 # HTML5 Responsive Starter Package
 
-## Ready-to-go one page package for the keen front-end enthusiast
+## Ready-to-go file set for the keen front-end enthusiast
 
 HTML5 Boilerplate + Twiter Bootstrap based responsive ('mobile first') template including the following *latest* libraries and resources:
 
