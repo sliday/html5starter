@@ -21,7 +21,9 @@ Install LESS for .less files support:
     npm install -g less
     lessc styles.less styles.css
 
-or (if you are using Sublime Text 2) install [sublime-less2css](https://github.com/timdouglas/sublime-less2css) package. This will allow you to get .less files compiled and minified every time you save your .less source in Sublime Text 2 editor.
+or 
+
+If you are using Sublime Text 2 – install [sublime-less2css](https://github.com/timdouglas/sublime-less2css) package. This will allow you to get .less files compiled and minified every time you save your .less source in Sublime Text 2 editor.
 
 ### 2. Get the starter
 
