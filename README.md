@@ -1,5 +1,15 @@
 # HTML5 Starter Package
 
-HTML5 template with HTML5 Boilerplate 3, jQuery, LESS, Lesshat, Animation.css and CloudFlare CDN resources embedded.
+## Ready to go package for the keen front-end enthusiast
 
-Ready to go package for a quick one-page projects.
+HTML5 template including the following *latest* libraries and resources:
+
+- [HTML5 Boilerplate](http://html5boilerplate.com)
+- [Twitter Bootstrap 3](http://getbootstrap.com)
+- [jQuery](http://jquery.com)
+- [LESS](http://lesscss.org) + [Lesshat](http://lesshat.com)
+- Bonus: [Animation.css](www.justinaguilar.com/animations/index.html#how) for CSS3 animations
+
+Nothing too fancy. Most of the scripts and styles are hosted at [CloudFlare CDN JS](cdnjs.cloudflare.com).
+
+
