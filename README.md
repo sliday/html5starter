@@ -1,10 +1,10 @@
-# HTML5 Starter Package
+# HTML5 Responsive Starter Package
 
-## Ready to go package for the keen front-end enthusiast
+## Ready-to-go one page package for the keen front-end enthusiast
 
-HTML5 template including the following *latest* libraries and resources:
+HTML5 Boilerplate + Twiter Bootstrap based responsive ('mobile first') template including the following *latest* libraries and resources:
 
-- [HTML5 Boilerplate](http://html5boilerplate.com)
+- [HTML5 Boilerplate](http://html5boilerplate.com) – including Modernizr, Normalize.css and Respond.js
 - [Twitter Bootstrap 3](http://getbootstrap.com)
 - [jQuery](http://jquery.com)
 - [LESS](http://lesscss.org) + [Lesshat](http://lesshat.com)
@@ -29,7 +29,7 @@ If you are using Sublime Text 2 – install [sublime-less2css](https://github.co
 
     git clone https://github.com/sliday/html5starter.git
     
-Please feel free to fork and fine-tune the set.
+Git away! Please feel free to fork and fine-tune the set.
 
 
 
