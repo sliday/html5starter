@@ -2,7 +2,7 @@
 
 ## Ready-to-go file set for the keen front-end enthusiast
 
-HTML5 Boilerplate + Twiter Bootstrap based responsive ('mobile first') template including the following *latest* libraries and resources:
+HTML5 Boilerplate + Twitter Bootstrap based responsive ('mobile first') template including the following *latest* libraries and resources:
 
 - [HTML5 Boilerplate](http://html5boilerplate.com) – including Modernizr, Normalize.css and Respond.js
 - [Twitter Bootstrap 3](http://getbootstrap.com)
